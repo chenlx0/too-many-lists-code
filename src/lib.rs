@@ -1,3 +1,5 @@
+pub mod bad_stack;
+
 #[cfg(test)]
 mod tests {
     #[test]
